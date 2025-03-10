@@ -17,3 +17,4 @@ Administration of network operating systems
 ## ЛАБЫ
 
 <a href="LAB">*клик*<a/>
+## очень крутой курс, я прозрел после его прохождения, автор - легенда!
